@@ -46,9 +46,9 @@ The following ML algorithms were applied to assess water quality:
 This project is licensed under the MIT License.
 
 ## Authors
-[Sreenadh Yetukuri](https://github.com/SreenadhYetukuri)
-[Ashish Kodumuru](https://github.com/ASHISH15012005)
-[Suhas Sarabu](https://github.com/Sarabu-suhas)
+[Sreenadh Yetukuri](https://github.com/SreenadhYetukuri), 
+[Ashish Kodumuru](https://github.com/ASHISH15012005), 
+[Suhas Sarabu](https://github.com/Sarabu-suhas), 
 [Tarun Vurukonda](https://github.com/Saitarun1784)
 
 ---
