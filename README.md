@@ -37,21 +37,6 @@ The following ML algorithms were applied to assess water quality:
 - A **bar graph** visualizes the performance of different models based on accuracy, precision, recall, and F1-score.
 - Feature importance was analyzed to identify key factors affecting water quality.
 
-## 🛠 Installation & Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/Ground-Water-Quality-ML.git
-   cd Ground-Water-Quality-ML
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the analysis:
-   ```bash
-   python main.py
-   ```
-
 ## 📌 Dependencies
 - Python 3.x
 - NumPy, Pandas, Matplotlib, Seaborn
@@ -60,9 +45,15 @@ The following ML algorithms were applied to assess water quality:
 ## 📜 License
 This project is licensed under the MIT License.
 
+## Authors
+[Sreenadh Yetukuri](https://github.com/SreenadhYetukuri)
+[Ashish Kodumuru](https://github.com/ASHISH15012005)
+[Suhas Sarabu](https://github.com/Sarabu-suhas)
+[Tarun Vurukonda](https://github.com/Saitarun1784)
+
 ---
 
 ### 📬 Contact
 For any questions or collaborations, reach out via:
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-- GitHub: [Your GitHub](https://github.com/YOUR_GITHUB_USERNAME/)
+- LinkedIn: [Ashish Kodumuru](https://www.linkedin.com/in/ashishk169/)
+- GitHub: [ASHISH15012005](https://github.com/ASHISH15012005)
