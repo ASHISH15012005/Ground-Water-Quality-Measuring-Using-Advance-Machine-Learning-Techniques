@@ -17,7 +17,7 @@ This project analyzes ground water quality using machine learning algorithms. It
   - Dissolved Oxygen (DO)
   - Biological Oxygen Demand (BOD)
   - Chemical Oxygen Demand (COD)
-- **Data Source:** [Provide source or mention if self-collected]
+- **Data Set:** [Link](https://drive.google.com/file/d/1Ok9cUM5_nl7Cf9kzaA07UolvnuVF3Scs/view?usp=drive_link)
 - **Preprocessing:** Missing value handling, normalization, and feature selection.
 
 ## 🔍 Machine Learning Models Used
